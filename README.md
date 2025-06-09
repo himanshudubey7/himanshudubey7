@@ -1,4 +1,4 @@
-<h1 >
+<h1>
   💫 About Me
   <img src="https://github.com/himanshudubey7/himanshudubey7/blob/2102b58e6805d42e709f5923b39b9803f408659f/Animation%20-%201749138536101.gif?raw=true" width="100" alt="Animated Robot" />
 </h1>
