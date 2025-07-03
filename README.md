@@ -26,6 +26,10 @@
 
 ---
 
+---
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?himanshudubey7={himanshudubey7}&theme={zenburn}
+---
+
 ## 🌟 Project Showcase:
 <p align="center">
   <a href="https://github.com/himanshudubey7/Property_Listing-Project">
