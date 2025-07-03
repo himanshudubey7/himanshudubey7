@@ -98,8 +98,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshudubey7&theme=dark&hide_border=false" height="150" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudubey7&layout=compact&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudubey7&layout=compact&theme=dark&langs_count=10" height="150" />
 </p>
+
 
 ---
 
