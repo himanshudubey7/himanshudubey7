@@ -31,8 +31,8 @@
   <a href="https://github.com/himanshudubey7/Property_Listing-Project">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshudubey7&repo=Property_Listing-Project&theme=dark" />
   </a>
-  <a href="https://github.com/himanshudubey7/Skill_bridge_backend">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshudubey7&repo=Skill_bridge_backend&theme=dark" />
+  <a href="https://github.com/himanshudubey7/skill_bridge_updated">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshudubey7&repo=skill_bridge_updated&theme=dark" />
   </a>
   <a href="https://github.com/himanshudubey7/Feedback-box-MicroService-">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshudubey7&repo=Feedback-box-MicroService-&theme=dark" />
@@ -98,8 +98,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshudubey7&theme=dark&hide_border=false" height="150" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudubey7&layout=compact&theme=dark&langs_count=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudubey7&layout=compact&theme=dark&langs_count=10&cache_seconds=1" height="150" />
 </p>
+
 
 
 ---
