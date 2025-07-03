@@ -1,6 +1,8 @@
 <h1 >
   💫 About Me
   <img src="https://github.com/himanshudubey7/himanshudubey7/blob/2102b58e6805d42e709f5923b39b9803f408659f/Animation%20-%201749138536101.gif?raw=true" width="90" alt="Animated Robot" />
+
+ 
 </h1>
 
 👋 Hey! I'm **Himanshu Dubey** — a tech enthusiast who loves to **build, break, and learn**.
@@ -27,7 +29,9 @@
 ---
 
 ---
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={himanshudubey7}&theme={zenburn}
+![Himanshu's GitHub summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshudubey7&theme=zenburn) ![Himanshu's GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshudubey7&theme=zenburn)
+
+
 ---
 
 ## 🌟 Project Showcase:
@@ -99,7 +103,7 @@ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshudubey7&theme=dark&show_icons=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshudubey7&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshudubey7&theme=dark&de_border=false" height="150" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudubey7&layout=compact&theme=dark&langs_count=10&cache_seconds=1" height="150" />
