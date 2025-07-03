@@ -27,7 +27,7 @@
 ---
 
 ---
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?himanshudubey7={himanshudubey7}&theme={zenburn}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={himanshudubey7}&theme={zenburn}
 ---
 
 ## 🌟 Project Showcase:
