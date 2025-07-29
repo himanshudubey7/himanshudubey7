@@ -11,24 +11,6 @@
 🌱 Currently diving deeper into **system design, Docker, and scalable backend architectures** — always excited to learn something new!
 
 ---
-
-## 🚀 What I’m Currently Working On:
-- 🧩 Finishing my **Property Listing App** with caching and filtering.
-- 🌐 Exploring **System Design**, **Redis**, **NGINX**, and **Docker**.
-- 🎯 Practicing for the **Juspay Hiring Challenge**.
-- 💡 Starting work on a **Minimal Video Streaming App**.
-
----
-
-## 🏆 Achievements:
-- ✔️ Solved 500+ DSA Problems across LeetCode, GFG, CF
-- 🛠️ Built 10+ full-stack projects
-- 🏆 Finalist in college hackathons
-- 🚀 Created a microservice with NGINX & Docker
-
----
-
----
 ![Himanshu's GitHub summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshudubey7&theme=zenburn) ![Himanshu's GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshudubey7&theme=zenburn)
 
 
@@ -106,14 +88,11 @@
   <a href="https://auth.geeksforgeeks.org/user/himanshudubey7" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-00FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
   </a>
-  <a href="https://www.codechef.com/users/himanshudubey7" target="_blank">
+  <a href="https://www.codechef.com/users/uchiha_710" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-A52A2A.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://codeforces.com/profile/himanshudubey7" target="_blank">
+  <a href="https://codeforces.com/profile/_new_comer_" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://atcoder.jp/users/himanshudubey7" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-1F8ACB.svg?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" />
   </a>
 </p>
 
@@ -145,27 +124,6 @@
 ## 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=himanshudubey7&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 🤓 Did You Know?
-- 🔁 I often rebuild my projects to understand architecture better.
-- 🚀 Most of my full-stack projects started as scratch experiments.
-- 🧠 I’m learning to build for scale and performance, not just functionality.
-
----
-
-## ✍️ Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🧮 Visitor Count:
-<p align="center">
-  <img src="https://profile-counter.glitch.me/himanshudubey7/count.svg" />
 </p>
 
 ---
