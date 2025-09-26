@@ -88,7 +88,7 @@
   <a href="https://www.geeksforgeeks.org/user/arjunwm4o/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-00FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
   </a>
-  <a href="https://www.codechef.com/users/uchiha_710" target="_blank">
+  <a href="https://www.codechef.com/users/uchiha_107" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-A52A2A.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
   <a href="https://codeforces.com/profile/_new_comer_" target="_blank">
