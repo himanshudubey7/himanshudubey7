@@ -85,7 +85,7 @@
   <a href="https://leetcode.com/dubeyhimanshu0710/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/himanshudubey7" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/arjunwm4o/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-00FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
   </a>
   <a href="https://www.codechef.com/users/uchiha_710" target="_blank">
